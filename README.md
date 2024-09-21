@@ -3,11 +3,11 @@
 
 - 🏢 Currently working as a **Senior Software Engineer** at [**StiboDX**](https://www.stibodx.com/) building and maintaining editorial tools for the global publishing platforms
 
-- 🌱 I’m currently learning **OpenResty, Kong Gateway, AWS features**
+- 🌱 Currently learning **OpenResty, Kong Gateway, AWS features**
 
 - 💬 Ask me about **JS, Angular, Node, .NET, Java, MySQL**
 
-- 📫 How to reach me **maruf.khaled@gmail.com**
+- 📫 Reach me at **maruf.khaled@gmail.com**
 
 - 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1PeVDDVZdfjvjVMkt8KMHUsz84BOettZN/view?usp=sharing)
 
