@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maruf</h1>
-<h3 align="center">Experienced Software Developer | Frontend & Backend, occasional DevOps</h3>
+<h3 align="center">Experienced Software Developer | Frontend & Backend, occasional DevOps 👨‍💻</h3>
 
 <!--![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)-->
