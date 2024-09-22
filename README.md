@@ -25,7 +25,7 @@ I am a Full Stack Developer with experience in Node, Angular, Java, .NET, Headle
 
 Don't fall for the numbers of repositories in my Github profile. I've been working on **Enterprise Applications** full time for the last **10 years** (_check my resume_). Being a family man I could do that much besides my working hours. But I never stop learning TBH. But I agree, I sometimes procrastinate 😴
 
-FWIW, I am a huge fan of ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white) (the mighty one), and that's my fulltime IDE.
+FWIW, I am a huge fan of ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white) (the mighty one) and that's my fulltime IDE.
 
 - 🏢 Currently working as a **Senior Software Engineer** at [**StiboDX**](https://www.stibodx.com/) building and maintaining editorial tools for the global publishing platforms. I'm part of a globally distributed team.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. Some of those includes **OpenResty, Kong Gateway, AWS features**
