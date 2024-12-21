@@ -32,8 +32,7 @@ FWIW, I am a huge fan of ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143
 - I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about **JS, Angular, Node, .NET, Java, MySQL, API Gateways, A bit of AWS, Performance testing**.
 - 📫 Mail me at - [maruf.khaled at gmail dot com]
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1PeVDDVZdfjvjVMkt8KMHUsz84BOettZN/view?usp=sharing)
-
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1PeVDDVZdfjvjVMkt8KMHUsz84BOettZN/view?usp=sharing) and [LinkedIn](www.linkedin.com/in/khaled4vokalz)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khaled4vokalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled4vokalz" height="30" width="40" /></a>
