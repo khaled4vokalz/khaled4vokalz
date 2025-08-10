@@ -28,9 +28,9 @@ Don't fall for the numbers of repositories in my Github profile. I've been worki
 FWIW, I am a huge fan of ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white) (the mighty one) and that's my fulltime IDE.
 
 - 🏢 Currently working as a **Staff Software Engineer** at [**Optimizely**](https://www.optimizely.com/). I'm part of a globally distributed team.
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. Some of those includes **Go, OpenResty, Kong Gateway, AWS features**
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. Some of those includes **Go, React, Agentic Development, AWS features**
 - I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about **JS, Angular, Node, .NET, Java, MySQL, API Gateways, A bit of AWS, Performance testing**.
+- 💬 Ask me about **Node, Angular, Node, .NET, Java, MySQL, API Gateways, A bit of AWS, Performance testing**.
 - 📫 Mail me at - [maruf.khaled at gmail dot com]
 - 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1PeVDDVZdfjvjVMkt8KMHUsz84BOettZN/view?usp=sharing) and [LinkedIn](www.linkedin.com/in/khaled4vokalz)
 <h3 align="left">Connect with me:</h3>
