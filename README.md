@@ -7,8 +7,8 @@
 I am a **Staff Software Engineer** with over **11 years of experience** building enterprise-scale applications. I specialize in designing robust architectures across the full stack, with a deep focus on performance, scalability, and developer experience.
 
 * **Current Role:** Staff Software Engineer at [**Optimizely**](https://www.optimizely.com/), working with globally distributed systems.
-* **Main Tech:** Node.js, Angular, .NET, Java, and RDBMS.
-* **Workflow:** Full-time **Neovim** enthusiast (efficiency is key).
+* **Main Tech:** Node, React, Angular, .NET, Java, and RDBMS.
+* **Workflow:** Full-time **Neovim** enthusiast.
 * **Current Interests:** Go, React, Agentic Development, and advanced AWS Cloud Architecture.
 
 ---
