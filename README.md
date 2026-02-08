@@ -1,42 +1,39 @@
-<h1 align="center">Hi 👋, Nice to see you!</h1>
-<h3 align="center">Experienced Software Developer | Frontend & Backend, occasional DevOps 👨‍💻</h3>
-
-<!--![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)-->
-<!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)-->
-<!--![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)-->
-<!--![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)-->
-<!--![Angular](https://img.shields.io/badge/Angular-DD0031?flat-square&logo=angular&logoColor=white)-->
-<!--![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)-->
-<!--![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)-->
-<!--![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)-->
-<!--![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)-->
-<!--![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)-->
-<!--![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)-->
-<!--![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)-->
-<!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)-->
-<!--![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)-->
-<!--![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)-->
-<!--![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)-->
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h3 align="center">Staff Software Engineer | Full Stack Specialist | System Architect</h3>
 
 ---
-I am a Full Stack Developer with experience in Node, Angular, Java, .NET, Headless Tech, APIs, RDBMS, Some AWS services, Performance Testing and System Architecture.
 
-Don't fall for the numbers of repositories in my Github profile. I've been working on closed source **Enterprise Applications** full time for the last **11 years** (_check my resume_). Being a family man I could do that much besides my working hours. But I never stop learning TBH. But I agree, I sometimes procrastinate 😴
+### Professional Profile
+I am a **Staff Software Engineer** with over **11 years of experience** building enterprise-scale applications. I specialize in designing robust architectures across the full stack, with a deep focus on performance, scalability, and developer experience.
 
-FWIW, I am a huge fan of ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white) (the mighty one) and that's my fulltime IDE.
+* **Current Role:** Staff Software Engineer at [**Optimizely**](https://www.optimizely.com/), working with globally distributed systems.
+* **Main Tech:** Node.js, Angular, .NET, Java, and RDBMS.
+* **Workflow:** Full-time **Neovim** enthusiast (efficiency is key).
+* **Current Interests:** Go, React, Agentic Development, and advanced AWS Cloud Architecture.
 
-- 🏢 Currently working as a **Staff Software Engineer** at [**Optimizely**](https://www.optimizely.com/). I'm part of a globally distributed team.
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. Some of those includes **Go, React, Agentic Development, AWS features**
-- I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about **Node, React, Angular, Node, .NET, Java, MySQL, API Gateways, A bit of AWS, Performance testing**.
-- 📫 Mail me at - [maruf.khaled at gmail dot com]
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1PeVDDVZdfjvjVMkt8KMHUsz84BOettZN/view?usp=sharing) and [LinkedIn](www.linkedin.com/in/khaled4vokalz)
-<h3 align="left">Connect with me:</h3>
+---
+
+### Core Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | Node.js, Java, .NET Core, Express, Go (Learning) |
+| **Frontend** | Angular, React, TypeScript, Redux |
+| **Database/Cache** | MySQL, MSSQL, Redis |
+| **DevOps/Cloud** | AWS, Docker, Jenkins, Nginx, Linux |
+| **Testing/Tools** | Jasmine, Mocha, Puppeteer, Grafana, Performance Testing |
+
+---
+
+### Beyond the Commit Graph
+While my public GitHub activity reflects my personal learning journey, my professional career has been dedicated to **closed-source Enterprise Applications**. I thrive in complex environments where performance testing and system architecture are paramount.
+
+---
+
+### Let's Connect
+- [**View My Resume**](https://drive.google.com/file/d/1PeVDDVZdfjvjVMkt8KMHUsz84BOettZN/view?usp=sharing)
+- [**LinkedIn Profile**](https://linkedin.com/in/khaled4vokalz)
+- [**maruf.khaled@gmail.com**](mailto:maruf.khaled@gmail.com)
+
 <p align="left">
-<a href="https://linkedin.com/in/khaled4vokalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled4vokalz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khaled4vokalz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled4vokalz" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled4vokalz&show_icons=true&locale=en&layout=compact" alt="khaled4vokalz" /></p>
