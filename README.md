@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">Staff Software Engineer | Full Stack Specialist | System Architect</h3>
+<h3 align="center">Staff Software Engineer | Full Stack Specialist | Agentic Development Specialist</h3>
 
 ---
 
