@@ -19,8 +19,8 @@ I am a **Staff Software Engineer** with over **11 years of experience** building
 | **Backend** | Node.js, Java, .NET Core, Express, Go (Learning) |
 | **Frontend** | Angular, React, TypeScript, Redux |
 | **Database/Cache** | MySQL, MSSQL, Redis |
-| **DevOps/Cloud** | AWS, Docker, Jenkins, Nginx, Linux |
-| **Testing/Tools** | Jasmine, Mocha, Puppeteer, Grafana, Performance Testing |
+| **DevOps/Cloud** | AWS, Kubernetes, Docker, Jenkins, Nginx, Linux |
+| **Testing/Tools** | Puppeteer, Grafana, DataDog, Performance Testing |
 
 ---
 
